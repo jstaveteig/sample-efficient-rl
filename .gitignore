@@ -1,0 +1,16 @@
+README.md
+AGENTS.md
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.cache/
+results/
+runs/
+checkpoints/
+*.pkl
+*.npz
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
